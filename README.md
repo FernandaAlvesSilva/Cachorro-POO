@@ -17,3 +17,5 @@ Clone o repositório ou baixe os arquivos Cachorro.java e ClassePOO_Cachorro.jav
 Compile os arquivos utilizando o compilador Java (javac).
 Execute o arquivo ClassePOO_Cachorro.java utilizando o interpretador Java (java).
 Certifique-se de ter um ambiente de desenvolvimento Java configurado corretamente.
+]![image](https://github.com/user-attachments/assets/d8d22991-57c9-4e41-9a78-72a0218a7afa)
+
